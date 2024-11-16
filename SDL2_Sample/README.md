@@ -1,1 +1,1 @@
-unzip SDK.zip as SDK
+unzip SDK.zip as SDK folder
